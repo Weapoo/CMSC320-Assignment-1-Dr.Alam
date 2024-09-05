@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: git allows you to efficiently branch out of the orginal code and make adjustments
