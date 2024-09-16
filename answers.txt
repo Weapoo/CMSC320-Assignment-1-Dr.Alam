@@ -5,3 +5,7 @@ Answer: git allows you to efficiently branch out of the orginal code and make ad
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science could be applied to the medical field. An example of this is getting a list of patient names and organizing them based on their Names.
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging keeps the original commits intact while rebasing rewrites the commit history.
+
